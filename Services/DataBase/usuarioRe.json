@@ -1,0 +1,58 @@
+[
+    {
+        "Codigo": "user1",
+        "Clave": "user1clave",
+        "TipoProf": "F",
+        "nombre": "Prueba1",
+        "Apellidos": "Pruebaapellidos1"
+    },
+    {
+        "Codigo": "user2",
+        "Clave": "user2clave",
+        "TipoProf": "F",
+        "nombre": "Prueba2",
+        "Apellidos": "Pruebaapellidos2"
+    },
+    {
+        "Codigo": "user3",
+        "Clave": "user1clave",
+        "TipoProf": "X",
+        "nombre": "Prueba3",
+        "Apellidos": "Pruebaapellidos3"
+    },
+    {
+        "Codigo": "user4",
+        "Clave": "user1clave",
+        "TipoProf": "X",
+        "nombre": "Prueba4",
+        "Apellidos": "Pruebaapellidos4"
+    },
+    {
+        "Codigo": "user5",
+        "Clave": "user1clave",
+        "TipoProf": "F",
+        "nombre": "Prueba5",
+        "Apellidos": "Pruebaapellidos5"
+    },
+    {
+        "Codigo": "user6",
+        "Clave": "user1clave",
+        "TipoProf": "F",
+        "nombre": "Prueba11111",
+        "Apellidos": "Pruebaapellidos111"
+    },
+    {
+        "Codigo": "user7",
+        "Clave": "user7clave",
+        "TipoProf": "F",
+        "nombre": "Prueba7777",
+        "Apellidos": "Pruebaapellidos7777"
+    },
+    {
+        "Codigo": "user88",
+        "Clave": "user8claveaa",
+        "TipoProf": "F",
+        "nombre": "Prueba888",
+        "Apellidos": "Pruebaapellidos8888"
+    }
+]
