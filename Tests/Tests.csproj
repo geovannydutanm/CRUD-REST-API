@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Prueba\ApiRestPrueba.csproj" />
+    <ProjectReference Include="..\ApiRest\ApiRestPrueba.csproj" />
     <ProjectReference Include="..\Services\Services.csproj" />
   </ItemGroup>
 

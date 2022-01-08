@@ -110,12 +110,13 @@ namespace ApiRestPrueba.Controllers
                 var row = _gestionarUsuarios.GetById(codigo);
                 if (row != null)
                 {
-                    return StatusCode(StatusCodes.Status304NotModified, "DO NOT MODIFY...");
+                    
+                    //I return a successful response with your information
+                    return Ok(_gestionarUsuarios.Save(usuarioResDto));
                 }
                 else
                 {
-                    //I return a successful response with your information
-                    return Ok(_gestionarUsuarios.Save(usuarioResDto));
+                    return StatusCode(StatusCodes.Status304NotModified, "DO NOT MODIFY...");
                 }
             }
             catch (Exception)
